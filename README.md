@@ -1,1 +1,1 @@
-# JavaScript-temperature convertor
+# JavaScript_temperature convertor
